@@ -1,0 +1,14 @@
+{
+  "name": "deep-link-test-app",
+  "version": "1.0.0",
+  "description": "Simple app for testing deep link functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Petro Rudenko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
